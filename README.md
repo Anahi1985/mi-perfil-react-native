@@ -2,7 +2,7 @@
 
 # Pantalla de Perfil - React Native & Expo
 
-**Proyecto:** Primera Entrega — App de Perfil de Usuario
+**Actividad 1:** Primera Proyecto en React Native
 
 ---
 
