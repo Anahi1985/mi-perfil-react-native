@@ -2,16 +2,14 @@
 
 # Pantalla de Perfil - React Native & Expo
 
-Aplicación móvil desarrollada en React Native utilizando Expo. El proyecto consiste en una interfaz de usuario interactiva para la gestión de un perfil personal, cuidando el diseño responsive, la alineación visual y la usabilidad en dispositivos Android.
+**Proyecto:** Primera Entrega — App de Perfil de Usuario
 
 ---
 
 ## 📱 Características y Componentes
-- **Componentes Nativos:** Implementación de `SafeAreaView`, `ScrollView`, `TextInput` y `TouchableOpacity`.
-- **Manejo del Teclado:** Integración de `KeyboardAvoidingView` y ajuste en `app.json` (`softwareKeyboardLayoutMode: "pan"`) para evitar que el teclado virtual oculte los campos de entrada en Android.
-- **Campo Multilinea:** Entrada de **Biografía** configurada con `multiline={true}` y `textAlignVertical="top"` para garantizar un área de texto funcional y cómoda.
-- **Diseño & Estilos:** Centralización de diseño con `StyleSheet`, uso de `Flexbox`, contenedores tipo tarjeta (`card`) y avatares redondeados.
-
+- **Componentes Base y Nativos:** Uso de `SafeAreaView`, `ScrollView`, `Text`, `TextInput` y `TouchableOpacity`.
+- **Entrada Multilinea:** Campo de **Biografía** configurado con `multiline={true}` y `textAlignVertical="top"`.
+- **Diseño y Estilos:** Estructura limpia mediante `StyleSheet`, layout con `Flexbox`, contenedores tipo tarjeta (`card`) y avatar circular.
 ---
 
 ## 📷 Capturas de Pantalla
@@ -30,3 +28,4 @@ Aplicación móvil desarrollada en React Native utilizando Expo. El proyecto con
  ```bash
    git clone https://github.com/Anahi1985/mi-perfil-react-native.git
    cd mi-perfil-react-native
+
