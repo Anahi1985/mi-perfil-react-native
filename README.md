@@ -1,4 +1,4 @@
-# Welcome to your Expo app 👋
+
 
 # Pantalla de Perfil - React Native & Expo
 
@@ -27,6 +27,6 @@ Aplicación móvil desarrollada en React Native utilizando Expo. El proyecto con
 ## 🚀 Cómo ejecutar el proyecto
 
 1. **Clonar el repositorio:**
-   ```bash
-   git clone [https://github.com/Anahi1985/mi-perfil-react-native.git](https://github.com/Anahi1985/mi-perfil-react-native.git)
+ ```bash
+   git clone https://github.com/Anahi1985/mi-perfil-react-native.git
    cd mi-perfil-react-native
