@@ -2,7 +2,7 @@
 
 # Pantalla de Perfil - React Native & Expo
 
-**Actividad 1:** Primera Proyecto en React Native
+**Actividad 1:** Primer Proyecto en React Native
 
 ---
 
