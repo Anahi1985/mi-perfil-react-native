@@ -14,7 +14,6 @@
 
 ## 📷 Capturas de Pantalla
 
-> *Ubica tus capturas dentro de la carpeta `screenshots/` en la raíz del proyecto para que se visualicen correctamente.*
 
 | Vista Principal | Formulario | Teclado Activo |
 | :---: | :---: | :---: |
